@@ -1,4 +1,4 @@
-# React template
+# 🛸 React template
 
 This is a template for a React project.
 
@@ -17,8 +17,5 @@ npm i
 npm run dev
 ```
 
-## License
-
-MIT © [jordi](jordicapellades.dev)
 
 ### Happy coding! 🚀
