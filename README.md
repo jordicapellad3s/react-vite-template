@@ -1,6 +1,6 @@
-# 🛸 React template
+# ⚛️ React + ⚡️Vite + 🎨 Tailwind
 
-This is a template for a React project.
+Vite temaplete for React project with tailwind, prettier and eslint configured.
 
 ## Ingredients
 
